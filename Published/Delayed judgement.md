@@ -1,3 +1,9 @@
+---
+title: Delayed judgement
+description: A framework to be non judgemental
+date: Nov 21, 2023
+slug: delayed-judgement
+---
 ### **Introduction:**
 
 Have you ever found yourself struggling with the weight of human judgement that permeates  your relationships? 
