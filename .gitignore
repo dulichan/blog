@@ -1,9 +1,12 @@
-# Ignore everything
-*
+# Ignore everything at the root
+/*
+
+# But not the Published folder
+!/Published/
+
+# Within Published, don't ignore anything
+!/Published/**
+
 
 # But not these files...
 !.gitignore
-# Maybe other specific files you want to include
-
-# And definitely include the subfolder (replace 'subfolder_name' with your actual subfolder name)
-!/Published/**
