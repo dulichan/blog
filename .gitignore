@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+# Maybe other specific files you want to include
+
+# And definitely include the subfolder (replace 'subfolder_name' with your actual subfolder name)
+!/Published/**
