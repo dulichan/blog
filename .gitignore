@@ -3,10 +3,11 @@
 
 # But not the Published folder
 !/Published/
+!/Pages/
 
 # Within Published, don't ignore anything
 !/Published/**
-
+!/Pages/**
 
 # But not these files...
 !.gitignore
