@@ -1,8 +1,8 @@
 ---
 title: Slow is Fake
-description: 
-date: 
-featured:
+description: How to execute with urgency without loosing inner calmness
+date: Dec 6, 2023
+featured: "true"
 ---
 
 Building a startup is fucking hard. 
