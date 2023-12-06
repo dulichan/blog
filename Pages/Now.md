@@ -1,6 +1,6 @@
 ---
-title: 
-description:
+title: Now
+description: What am I up to now?
 ---
 These days - I am in New York City, until beginning of January. My wife loves Christmas so going to spend Christmas and New Years eve basking the great city. 
 
